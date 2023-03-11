@@ -75,5 +75,3 @@ Document your work here.
 ## Join Data
 
 Be sure to include a sanity check, and double-check that case count is correct!
-
-

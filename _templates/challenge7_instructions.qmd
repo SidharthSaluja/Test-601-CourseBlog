@@ -80,5 +80,3 @@ Document your work here.
 ```
 
 ## Visualization with Multiple Dimensions
-
-

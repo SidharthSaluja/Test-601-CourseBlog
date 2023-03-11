@@ -44,7 +44,7 @@ mean(x)
 
 ## Rendering your post
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. 
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code.
 
 :::{.callout-warning}
 Be sure that you have moved your `*.qmd` file into the `posts` folder **BEFORE** you render it, so that all files are stored in the correct location.

@@ -54,10 +54,10 @@ Read in one (or more) of the following datasets, using the correct R package and
 
 -   cereal.csv ⭐
 -   Total_cost_for_top_15_pathogens_2018.xlsx ⭐
--   Australian Marriage ⭐⭐ 
+-   Australian Marriage ⭐⭐
 -   AB_NYC_2019.csv ⭐⭐⭐
 -   StateCounty2012.xls ⭐⭐⭐
--   Public School Characteristics ⭐⭐⭐⭐ 
+-   Public School Characteristics ⭐⭐⭐⭐
 -   USA Households ⭐⭐⭐⭐⭐
 
 ```{r}
