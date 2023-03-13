@@ -1,0 +1,26 @@
+---
+title: "Test2 By Sid"
+author: "Sid"
+description: "Reading in data and creating a post"
+date: "03/13/2023"
+format:
+  html:
+    toc: true
+    code-fold: true
+    code-copy: true
+    code-tools: true
+categories:
+  - sid
+---
+
+```{r}
+#| label: setup
+#| warning: false
+#| message: false
+
+library(tidyverse)
+
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message=FALSE)
+```
+
+## Trial 1
