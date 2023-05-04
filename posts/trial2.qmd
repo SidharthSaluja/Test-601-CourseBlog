@@ -10,7 +10,7 @@ format:
     code-copy: true
     code-tools: true
 categories:
-  - sid
+  - developer
   - test
   - second
 
