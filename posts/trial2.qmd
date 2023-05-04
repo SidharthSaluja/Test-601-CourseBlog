@@ -10,7 +10,11 @@ format:
     code-copy: true
     code-tools: true
 categories:
+<<<<<<< HEAD
   - developer
+=======
+  - sidharth
+>>>>>>> 4439a02fea64ea03f49c1a9d77fce2d3655ab80c
   - test
   - second
 
