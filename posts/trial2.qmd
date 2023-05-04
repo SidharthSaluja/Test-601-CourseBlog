@@ -12,7 +12,6 @@ format:
 categories:
   - sid
   - test
-  - hi2
 ---
 
 ```{r}
